@@ -3,8 +3,8 @@
     "frame": {
         "width": 32,
         "height": 32,
-        "rows": 3,
-        "cols": 6
+        "cols": 6,
+        "rows": 3
     },
     "animations" : {
         "start": {
