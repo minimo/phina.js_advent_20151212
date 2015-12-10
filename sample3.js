@@ -46,7 +46,7 @@ phina.define('Hiyoko', {
   },
   update: function(app) {
     var kb = app.keyboard;
-    if (kb.getKey('z') {
+    if (kb.getKey('z')) {
         this.jump = true;
         this.tweener.clear().to({y: 320}, wait, 'easeOutSine');
     }
