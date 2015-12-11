@@ -1,5 +1,4 @@
 ﻿{
-    "image": "hiyoko",
     "frame": {
         "width": 32,
         "height": 32,
